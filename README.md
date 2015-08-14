@@ -1,4 +1,5 @@
 # hubot-fast
+[![Build Status](https://travis-ci.org/ajmath/hubot-fast.svg)](https://travis-ci.org/ajmath/hubot-fast)
 
 Delivering healthy doses of bad sonic fan art
 

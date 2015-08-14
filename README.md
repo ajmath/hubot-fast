@@ -20,7 +20,14 @@ Then add **hubot-fast** to your `external-scripts.json`:
 
 ## Sample Interaction
 
+default
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> Man that deployment was fast
+hubot>> http://41.media.tumblr.com/878d3259fa8375721ac33d64be88994d/tumblr_mww3arHsLc1spc5n6o1_1280.jpg
+```
+
+with HUBOT_SLOW set to something
+```
+user1>> hubot fast me
+hubot>> http://41.media.tumblr.com/878d3259fa8375721ac33d64be88994d/tumblr_mww3arHsLc1spc5n6o1_1280.jpg
 ```
